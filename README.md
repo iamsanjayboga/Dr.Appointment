@@ -1,3 +1,11 @@
+People in today's world are so preoccupied that they neglect their health. Because of their hectic lifestyle, they don't even have time to spend on their health, resulting in health problems. Our goal is to create a platform where people can book appointments with doctors while sitting at home or at work.
+
+Creating a platform where patients can sit at their home or office and book appointments with the doctors they want for their medical issues.
+1. Creating a system for scheduling doctor appointments that patients can use.
+2.Patients essentially request appointments with any doctor they want within a certain time frame. The patient will then be assigned to the doctor of their choice from the provided list.
+3. An appointment can be canceled or changed at any time.
+
+
 ![image](https://user-images.githubusercontent.com/57935798/202937424-3c6f7f6c-fdb4-471a-bfd8-26dd8a6ad041.png)
 
 ![image](https://user-images.githubusercontent.com/57935798/202937442-8257ed53-8ff5-4d8b-b379-cca5a706a5c7.png)
